@@ -1,0 +1,14 @@
+{
+  "name": "biodata",
+  "version": "1.0.0",
+  "description": "biodata",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "izzahd",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^8.0.0"
+  }
+}

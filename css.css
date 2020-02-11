@@ -1,0 +1,59 @@
+body, html {
+	height: 100%;
+	margin: 0;
+	background-color: #C5BCB3;
+}
+
+.bg h1{
+	font-family: century gothic;
+	font-size: 64px;
+	color: #7CA3A2;
+	text-align: center;
+	text-shadow: 0 0 8px #FFFFFF;
+	position: absolute;
+	width: 100%;
+	left: 0;
+	right: 0;
+	top: 100px;
+}
+
+table, tr, td{
+	background-color: #7CA3A2;
+	font-family: century gothic;
+	color: #F3F1E5;
+	border: 0;
+	border-collapse: collapse;
+}
+
+td{
+	padding: 10px;
+}
+
+table.center{
+	width: 100%;
+}
+
+.posisi{
+	position: absolute;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: auto;
+	margin-top: auto;
+	left: 0;
+	right: 0;
+	top: 250px;
+	bottom: 0;
+}
+
+.bg{
+	background-image: url('background.jpg');
+	height: 65%;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+p{
+	font-size: 36px;
+	margin: 0;
+}	
